@@ -1,7 +1,7 @@
 
 # 🏡 Airbnb Listings EDA - Airbnb Open Data
 
-This repository contains an exploratory data analysis (EDA) of the Airbnb Listings dataset for New York City in 2019. The dataset was sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) and provides insights into listings, pricing, availability, and other features.
+This repository contains an exploratory data analysis (EDA) of the Airbnb Listings dataset for New York City in 2008. The dataset was sourced from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) and provides insights into listings, pricing, availability, and other features.
 
 ---
 
